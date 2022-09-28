@@ -1,4 +1,26 @@
-<div align=center><img width="401" height="514.5" src="https://images2.imgbox.com/f0/c3/za0mt5kQ_o.png"></div>
+<div align=center><img width="802" height="1029" src="https://images2.imgbox.com/f0/c3/za0mt5kQ_o.png"></div>
 
 ## 本仓库为爪爪字幕组GitHub分享页面
-**此仓库中字幕翻译均来自版权平台官方翻译，由本组进行润色优化
+**此仓库中字幕翻译均来自版权平台官方翻译，由本组进行润色优化**
+
+**交流群QQ号 ：571435381**
+
+**招募群QQ号 ：641455611**
+
+**合作邮箱 ：1196060572@qq.com**
+
+**招募中，有意请加招募群**
+
+翻译 ：无等级证书要求，能正确听译一集动漫即可
+
+时轴 ：使用Aegisub精确打轴并设置美观的字体和画面文字
+
+特效 ：熟练使用特效代码制作符合动漫风格的歌词特效（使用Adobe After Effects或者Aegisub）
+
+压制 ：熟悉VapourSynth压制流程或有高性能PC并有一定空闲时间
+
+分流 ：电脑能保持7x24h开机，至少有2TB的硬盘空间及足够的带宽
+
+繁化 ：依据港澳台的文化习惯将简体字幕转换成繁体字幕
+
+美工 ：会PS，AI等制图软件，能制作出符合动漫风格的海报
