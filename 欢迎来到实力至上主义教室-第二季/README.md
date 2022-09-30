@@ -3,4 +3,4 @@
 
 **润色：小新**
 
-![欢迎来到实力至上主义教室 第二季](https://images2.imgbox.com/f5/d1/0JmUJdH7_o.png)
+![欢迎来到实力至上主义教室 第二季](https://www.picgo.net/image/0JmUJdH7-o.yf5xY)
