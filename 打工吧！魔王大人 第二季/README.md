@@ -3,4 +3,4 @@
 
 **润色：Ioroid**
 **注意！此字幕未经统一处理，可能后面的集数字幕特效与前面的不一致！
-![打工吧！魔王大人 第二季](https://images2.imgbox.com/87/ad/hGquiPdL_o.png)
+![打工吧！魔王大人 第二季](https://images2.imgbox.com/46/8c/aaHSIyNa_o.png)
