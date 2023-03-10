@@ -12,4 +12,6 @@
 **我们之前制作的自翻字幕在此账号的另一个仓库中，请自行查看**
 https://github.com/ZhuaZhuaSub/ZhuaZhuaSub
 
+**2023年3月11日，关闭字幕组网站，原域名将301直接重定向至本仓库一段时间，域名过期后将不再续签**
+
 <div align=center><img width="802" height="1029" src="https://images2.imgbox.com/f0/c3/za0mt5kQ_o.png"></div>
