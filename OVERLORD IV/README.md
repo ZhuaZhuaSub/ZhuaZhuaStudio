@@ -3,6 +3,6 @@
 
 **润色：小新**
 
-**已统一特效，未匹配BD轴**
+**已统一特效，已匹配BD轴**
 
 ![OVERLORD IV](https://images2.imgbox.com/69/9e/xjwqZgjj_o.png)
